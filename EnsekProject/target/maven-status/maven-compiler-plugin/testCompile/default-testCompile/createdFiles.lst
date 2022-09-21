@@ -1,0 +1,17 @@
+stepDefinitions\LoginSteps.class
+stepDefinitions\RotaSteps.class
+stepDefinitions\ShiftTypesAddAndEditSteps.class
+stepDefinitions\WardsSteps.class
+stepDefinitions\UserRolesSteps.class
+stepDefinitions\Userssteps.class
+stepDefinitions\CostCentrePageSteps.class
+stepDefinitions\RosterSteps.class
+runners\Runner.class
+stepDefinitions\RequestLeaveSteps.class
+stepDefinitions\MedicImportSteps.class
+stepDefinitions\AssignMedicSteps.class
+stepDefinitions\Hooks.class
+stepDefinitions\ShiftCategoriesAndReasons.class
+stepDefinitions\StafflistSteps.class
+stepDefinitions\RolesSteps.class
+stepDefinitions\StaffTierSteps.class
